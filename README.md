@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/775774648720687144/1069633751514103808/Original_Banner___Black.svg" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">A random developer, your kind of guy.</div>  
   
 
-- 🔭 I’m currently working on [Pyreworker](https://discord.gg/D8eMwnrGt4)  
+- 🔭 I’m currently working on [Pyreworker & Pyreworks](https://discord.gg/D8eMwnrGt4)  
   
 
 - 🌱 I’m currently learning front-end development (and some back-end).  
