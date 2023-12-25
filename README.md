@@ -1,7 +1,7 @@
 ## It's murt  
   
 
-<a href="https://github.com/murt-awh" target="_blank">
+<a href="https://github.com/muurt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/murtsmh" target="_blank">
@@ -67,11 +67,11 @@ If you want to talk to me, shoot me a message on Discord at @muurt!
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Murt-awh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=muurt&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murt-awh&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muurt&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -87,7 +87,7 @@ If you want to talk to me, shoot me a message on Discord at @muurt!
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Murt-awh&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=muurt&&style=flat-square)  
   
 
 <br/>  
